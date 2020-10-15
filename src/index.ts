@@ -1,11 +1,6 @@
-interface Person {
-    name: string;
-    age: number;
-}
-
-const adi1: Person = {
-    name: 'Aditya Hajare',
-    age: 100,
-};
-
-export default adi1;
+export * from './errors/bad-request';
+export * from './errors/custom';
+export * from './errors/database-connection';
+export * from './errors/not-authorized';
+export * from './errors/not-found';
+export * from './errors/request-validation';
