@@ -1,6 +1,6 @@
 {
   "name": "@adi-microservices/common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Main Repo: ([https://github.com/aditya43/microservices-applications]https://github.com/aditya43/microservices-applications)",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
